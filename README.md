@@ -33,7 +33,7 @@ Project created by <a href="https://github.com/lenscaster">lenscaster</a> to mak
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](lenscaster.png)](https://chat.whatsapp.com/GUhzlg6Yhkj611fLl5HkpN)
+  [![join](https://github.com/lenscaster/groot/blob/main/media/lenscaster.png)](https://chat.whatsapp.com/GUhzlg6Yhkj611fLl5HkpN)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lenscaster&repo=nandubot&theme=nightowl)](https://github.com/lenscaster/nanduz)
@@ -94,7 +94,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![lenscaster](https://github.com/lenscaster/groot/blob/main/media/groot100.jpg?size=100)](https://github.com/lenscaster/groot) |  [![vdj-akash](vdj.jpg?size=100)](https://github.com/vdj-akash/ponnu) | [![lenscaster](nandu100.jpg?size=100)](https://github.com/lenscaster/nanduz) 
+  [![lenscaster](https://github.com/lenscaster/groot/blob/main/media/groot100.jpg?size=100)](https://github.com/lenscaster/groot) |  [![vdj-akash](https://github.com/lenscaster/groot/blob/main/media/vdj.jpg?size=100)](https://github.com/vdj-akash/ponnu) | [![lenscaster](https://github.com/lenscaster/groot/blob/main/media/nandu100.jpg?size=100)](https://github.com/lenscaster/nanduz) 
 ----|----|----
 [lenscaster](https://github.com/lenscaster)  | [vdj-akash](https://github.com/vdj-akash) | [lenscaster](https://github.com/lenscaster)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Modifiying  as   public
