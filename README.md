@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="groot.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="groot100.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="groot" src="https://img.shields.io/badge/groot-%20-red"></a>
 </p>
